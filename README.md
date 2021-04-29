@@ -1,5 +1,7 @@
 # tableau_citi_bike
 
+![](.gif)
+
 NYC CITI BIKE ANALYSIS
 
 Story can be found here: 
