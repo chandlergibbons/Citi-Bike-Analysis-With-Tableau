@@ -1,6 +1,6 @@
 # tableau_citi_bike
 
-![](.gif)
+![](citi.gif)
 
 NYC CITI BIKE ANALYSIS
 
