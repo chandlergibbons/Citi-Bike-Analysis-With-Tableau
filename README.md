@@ -29,36 +29,36 @@ https://public.tableau.com/profile/chandler.gibbons#!/vizhome/city_bike_analysis
 
 ## SLIDE 4: How many trips have been recorded total during the chosen period?
 
-Interactivity: Select by Station Drop Down Or By Lassoing A Section Of The Map
+* Interactivity: Select by Station Drop Down Or By Lassoing A Section Of The Map
 
-Analysis: During the period of October 2020 - March 2021 over 9 Million trips were recorded with the most occurring in October and November of 2020. Over all Trips die down as you move across this time period with an exception between January and February's numbers by 6415 trips.
+* Analysis: During the period of October 2020 - March 2021 over 9 Million trips were recorded with the most occurring in October and November of 2020. Over all Trips die down as you move across this time period with an exception between January and February's numbers by 6415 trips.
 
 ## SLIDE 5: A Dynamic Heat Map Of Start Station Popularity
 
-Interactivity: An Option To Scroll Through Time By Month a Drop Down To Select By Year And Scroll Bar to Limit By Station Popularity
+* Interactivity: An Option To Scroll Through Time By Month a Drop Down To Select By Year And Scroll Bar to Limit By Station Popularity
 
-Analysis: As to be expected the Manhattan area is where the most trip starts are occurring. This is most likely due to its tourism and density overall. This can be seen every month throughout the data set period. As you filter down the dataset you will find that all the top stations are not in one place, but rather different zip codes clustered around the Manhattan area.
+* Analysis: As to be expected the Manhattan area is where the most trip starts are occurring. This is most likely due to its tourism and density overall. This can be seen every month throughout the data set period. As you filter down the dataset you will find that all the top stations are not in one place, but rather different zip codes clustered around the Manhattan area.
 
 ## SLIDE 6: A Dynamic Heat Map Of End Station Popularity
 
-Interactivity: An Option To Scroll Through Time By Month a Drop Down To Select By Year And Scroll Bar to Limit By Station Popularity
+* Interactivity: An Option To Scroll Through Time By Month a Drop Down To Select By Year And Scroll Bar to Limit By Station Popularity
 
-Analysis: As to be expected what goes out must come back in. for the most part start, and finish popularity are similar. Once again likely due to its tourism and density overall of the Manhattan area. This can be seen every month throughout the data set period. As you filter down the dataset you will find that once again in virtually the same locations, all the top stations are not in one place, but rather different zip codes clustered around the Manhattan area.
+* Analysis: As to be expected what goes out must come back in. for the most part start, and finish popularity are similar. Once again likely due to its tourism and density overall of the Manhattan area. This can be seen every month throughout the data set period. As you filter down the dataset you will find that once again in virtually the same locations, all the top stations are not in one place, but rather different zip codes clustered around the Manhattan area.
 
-SLIDE 7:
+## SLIDE 7: How has the proportion of short-term customers and annual subscribers changed?
 
-Interactions: A Playable Timeline / Drop Down By Month
+* Interactions: A Playable Timeline / Drop Down By Month
 
-Analysis: Overall both short term customers and annual subscribers decrease dramatically throughout the data set period. In March the consumer base flips to more short-term customers that subscribers. Perhaps the uncertainty of the pandemic as well as the weather have deterred folks from riding bikes outdoors during this period.
+* Analysis: Overall both short term customers and annual subscribers decrease dramatically throughout the data set period. In March the consumer base flips to more short-term customers that subscribers. Perhaps the uncertainty of the pandemic as well as the weather have deterred folks from riding bikes outdoors during this period.
 
-SLIDE 8: 
+## SLIDE 8: Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
-Analysis: Based on the graphs you can see that allot of riding on these bikes occurred in October. It may be a good idea to do maintenance before October to prep for this period. Then check again around February when the riding dies do due to weather. As for the bikes themselves, the data shows both the top 25 bikes with the longest total ride time and the bikes with the most rides. These I would be fixing first. As you will see in the next dashboard there are allot more in this relative range of hours in use.
+* Analysis: Based on the graphs you can see that allot of riding on these bikes occurred in October. It may be a good idea to do maintenance before October to prep for this period. Then check again around February when the riding dies do due to weather. As for the bikes themselves, the data shows both the top 25 bikes with the longest total ride time and the bikes with the most rides. These I would be fixing first. As you will see in the next dashboard there are allot more in this relative range of hours in use.
 
-SLIDE 9: 
+## SLIDE 9: Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
-Interactions: Slide Bar To Adjust Hours In Total Ride Time
+* Interactions: Slide Bar To Adjust Hours In Total Ride Time
 
-Analysis: Here is your full scope look at bikes and their total ride time during the period. There are quite a few bikes that spend allot of time in use. In the category of bikes over 400 + hrs. alone there are 92 total. Roughly 757 bikes in the 300 -400 hr range and roughly 1718 in the 200 - 300 hr range. It may be worth looking into when, from a total hrs in use standpoint, the bikes tend to break down and set up a plan to service the bikes
+* Analysis: Here is your full scope look at bikes and their total ride time during the period. There are quite a few bikes that spend allot of time in use. In the category of bikes over 400 + hrs. alone there are 92 total. Roughly 757 bikes in the 300 -400 hr range and roughly 1718 in the 200 - 300 hr range. It may be worth looking into when, from a total hrs in use standpoint, the bikes tend to break down and set up a plan to service the bikes
 
 ![image](https://user-images.githubusercontent.com/70335277/115489348-10da4c00-a22a-11eb-91c2-165c6eb0814a.png)
