@@ -6,6 +6,7 @@
 
 For this project I was tasked with overseeing the largest bike sharing program in the United States. My job was to generate a report for city officials looking to publicize and improve the city program by utilizing Tableau. Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage. However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. I built out a story in Tableau filled with dashboards to answer the questions below.
 
+Technolgies: Tableau
 
 Story can be found here: 
 https://public.tableau.com/profile/chandler.gibbons#!/vizhome/city_bike_analysis_whole_2_16188025479920/Story1?publish=yes
